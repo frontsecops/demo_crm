@@ -1,5 +1,7 @@
 # demo_crm
 
+Демонстрационное frontend-приложение на React 18 + Ant Design
+
 ## Запуск стенда на Windows
 
 ### Подготовка
