@@ -10,7 +10,6 @@
 2. Для возможности работать с локальным стендом, используя доменные имена, добавить в файл C:\Windows\System32\drivers\etc\hosts следующие строки
 ```
 127.0.0.1 crm.demo.ru
-127.0.0.1 fast.demo.ru
 127.0.0.1 attacker.demo.ru
 127.0.0.1 metrics.demo.ru
 ```
